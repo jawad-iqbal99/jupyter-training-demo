@@ -1,0 +1,4 @@
+/* Hide the interactive launch button on the training intro page */
+body:has(#python-training-demo) .dropdown-launch-buttons {
+    display: none !important;
+}
