@@ -1,0 +1,4 @@
+jupyter-book
+python 
+pands
+numpy

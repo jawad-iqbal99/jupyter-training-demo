@@ -1,0 +1,6 @@
+format: jb-book
+root: notebooks/intro
+
+chapters:
+  - file: notebooks/python_basics
+  - file: notebooks/pandas_basics

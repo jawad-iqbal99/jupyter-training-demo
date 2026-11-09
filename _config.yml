@@ -1,0 +1,12 @@
+title: Python Training Demo
+author: Jawad Iqbal
+
+execute:
+  execute_notebooks: "off"
+
+repository:
+  url: https://github.com/jawad-iqbal99/jupyter-training-demo
+  branch: main
+
+launch_buttons:
+  colab_url: https://colab.research.google.com
